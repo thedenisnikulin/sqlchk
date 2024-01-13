@@ -1,7 +1,7 @@
 package main
 
 import (
-	sqlchk "sqlchk"
+	"github.com/thedenisnikulin/sqlchk"
 
 	"golang.org/x/tools/go/analysis/singlechecker"
 )

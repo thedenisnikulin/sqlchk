@@ -1,4 +1,4 @@
-package sqlchck
+package sqlchk
 
 import (
 	"fmt"

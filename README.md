@@ -10,7 +10,7 @@ preparing them.
 ## Installation
 
 ```
-go install github.com/thedenisnikulin/sqlchk
+go install github.com/thedenisnikulin/sqlchk/cmd/sqlchk@latest
 ```
 
 ## Example usage
